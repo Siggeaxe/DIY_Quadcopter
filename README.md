@@ -4,5 +4,5 @@ This project aims to build a quadcopter drone from scratch using off the shelf c
 
 | Reconstruction using ADAM (patient 5) | Hyperparameter study (patient 5)  |                                                                                                                                                   
 | ---           | ---           |                                                                                                                                                   
-| ![](https://github.com/Siggeaxe/Reconstruction-of-ECG-Signals/blob/main/Plots/Adam/Plots/Adam_patient_5_length_15_small.png)  |  ![](https://github.com/Siggeaxe/Reconstruction-of-ECG-Signals/blob/main/Plots/Adam/Hyperpar/Adam_hyper_patient_5_length_30_Q1.png) |
+| ![](https://github.com/Siggeaxe/DIY_Quadcopter/blob/main/Bilder/Period%202/IMG_3621.jpg)  |  ![](https://github.com/Siggeaxe/DIY_Quadcopter/blob/main/Bilder/Period%202/IMG_3623.jpg) |
 
