@@ -2,7 +2,7 @@
 
 The purpose of this project is to apply and enhance our knowledge in control theory, signal processing, and electronic design by developing a fully functional quadcopter drone from scratch.
 
-Below you are two figures showing the current progress of the project:
+Below are two figures showing the current progress of the project:
 
 | Controller | Quadcopter Drone  |                                                                                                                                                   
 | ---           | ---           |                                                                                                                                                   
